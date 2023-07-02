@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4249cfb0-ef88-417b-be5d-8c292da8ffef" name="Changes" comment="FIX: Project structure;&#10;&#10;Co-authored-by: HarmonySkull &lt;109529692+HarmonySkull@users.noreply.github.com&gt;&#10;Co-authored-by: DavichoDev &lt;13292121+DavichoDev@users.noreply.github.com&gt;">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RzwB6elIH4ltZc0utM5V35bbOb" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "app.teamhub.trackedBranches": "-157p4qg/develop,-157p4qg/main",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "/Users/davichodev/Documents/Dev_Projects/Rayne/web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.Develop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4249cfb0-ef88-417b-be5d-8c292da8ffef" name="Changes" comment="" />
+      <created>1688266078339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688266078339</updated>
+      <workItem from="1688266080144" duration="171000" />
+    </task>
+    <task id="LOCAL-00001" summary="FIX: Project structure;&#10;&#10;Co-authored-by: HarmonySkull &lt;109529692+HarmonySkull@users.noreply.github.com&gt;&#10;Co-authored-by: DavichoDev &lt;13292121+DavichoDev@users.noreply.github.com&gt;">
+      <created>1688266164739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688266164739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIX: Project structure;&#10;&#10;Co-authored-by: HarmonySkull &lt;109529692+HarmonySkull@users.noreply.github.com&gt;&#10;Co-authored-by: DavichoDev &lt;13292121+DavichoDev@users.noreply.github.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: Project structure;&#10;&#10;Co-authored-by: HarmonySkull &lt;109529692+HarmonySkull@users.noreply.github.com&gt;&#10;Co-authored-by: DavichoDev &lt;13292121+DavichoDev@users.noreply.github.com&gt;" />
+  </component>
 </project>
